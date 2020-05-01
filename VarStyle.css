@@ -1,0 +1,227 @@
+html {
+     background-color: #194BA0;
+    }
+
+.Logo{
+    position:absolute;
+    width:300px;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+.navbar{
+    position: absolute;
+    font-family: sans-serif;
+    font-weight: 600;
+    font-size: 25px;
+    top: 250px;
+    left:70px;
+    line-height:80px;
+}
+
+.navbar ul li a:hover {
+    color:whitesmoke;
+   
+}
+
+ul{
+     list-style-type: none; 
+   
+}
+
+.girl{
+    position:absolute;
+    width:85%;
+    margin-left: 223px;
+    max-width: 100%;
+    top:0px;
+    margin-top: 0px;
+}
+
+.address{
+    position: absolute;
+    width:150px;
+    line-height: 25px;
+    left: 110px;
+    top:570px;
+}
+
+.contact{
+    font-size: 25px;
+    color: #F2BC1C;
+    
+    
+}
+
+.line1{
+    color: #F2BC1C;   
+    font-size: 18px;
+    font-family: sans-serif;
+}
+
+
+.line2{
+    color: whitesmoke;
+    font-size: 18px;
+    font-family: sans-serif;
+}
+
+.rectangle{
+    position: absolute;
+    width:1440px;
+    height: 500px;
+    background-color: whitesmoke;
+    top:1100px;
+    left:0px;
+    opacity: 90%;
+}
+
+.rectangle2{
+    position: absolute;
+    width:1440px;
+    height: 500px;
+    background-color: whitesmoke;
+    top:1900px;
+    left:0px;
+    opacity: 90%;
+}
+
+.pottery{
+    position: absolute;
+    width:1440px;
+    top:821px;
+    left: 0px;
+}
+
+.abouttext{
+    position: absolute;
+    top: 1270px;
+    left: 100px;
+    line-height:25px;
+    color:black;
+    width: 500px;
+    font-size: 18px;
+    font-family: sans-serif;
+}
+
+.aboutustitle{
+    position: absolute;
+    color:#AA1F24;
+    top:1140px;
+    left:100px;
+    font-size: 40px;
+}
+
+.workshopstext{
+    position: absolute;
+    top: 2060px;
+    left: 100px;
+    line-height:25px;
+    color:black;
+    width: 500px;
+    font-size: 18px;
+    font-family: sans-serif;
+}
+
+.workshopstitle{
+    position: absolute;
+    color:#AA1F24;
+    top:1930px;
+    left:100px;
+    font-size: 40px;
+}
+
+.aboutusbutton{
+    position: absolute;
+    width:200px;
+   top:50px;
+}
+
+.bump1{
+    position:absolute;
+    top:930px;
+    opacity: 0%;
+}
+
+.bump2{
+    position: absolute;
+    top:1710px;
+    opacity: 0;
+}
+
+.founder{
+    position:absolute;
+    width:23%;
+    top:1100px;
+    left:800px;    
+}
+
+.paint{
+    position:absolute;
+    width:35%;
+    top:1970px;
+    left:900px;
+    
+}
+.calendar{
+    position:absolute;
+    width:55%;
+    top:1550px;
+    left:600px;
+}
+
+.box{
+    position: absolute;
+    top:2548px;
+    width:50%;
+    left:720px;
+}
+.rectangle3{
+    position: absolute;
+    width:720px;
+    height: 630px;
+    background-color: whitesmoke;
+    top:2548px;
+    left:0px;
+    opacity: 90%;
+}
+
+.storetitle{
+    position: absolute;
+    color:#AA1F24;
+    top:2560px;
+    left:100px;
+    font-size: 40px;
+}
+
+.storetext{
+    
+    position: absolute;
+    top: 2700px;
+    left: 100px;
+    line-height:25px;
+    color:black;
+    width: 500px;
+    font-size: 18px;
+    font-family: sans-serif;
+}
+
+.gotostore{
+    position: absolute;
+    color:whitesmoke;
+    top:2925px;
+    left:195px;
+    font-family: sans-serif;
+    font-weight: 600;
+    font-size: 35px;
+    
+}
+
+.storebutton{
+    position:absolute;
+    width: 250px;
+    top:2950px;
+    left: 170px;
+}
+
+
+
